@@ -24,7 +24,7 @@ info:
     name: hello-actuator
     company: ej
 
-
+# 푸시하기 위해 남기는
 # /actuator/loggers
 # /actuator/loggers/{로거이름}
 logging:
