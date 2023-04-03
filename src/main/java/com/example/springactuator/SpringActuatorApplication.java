@@ -12,8 +12,8 @@ public class SpringActuatorApplication {
         SpringApplication.run(SpringActuatorApplication.class, args);
     }
 
-    @Bean
+    /*@Bean
     public InMemoryHttpExchangeRepository inMemoryHttpExchangeRepository() {
         return new InMemoryHttpExchangeRepository();
-    }
+    }*/
 }
